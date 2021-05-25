@@ -1,2 +1,9 @@
 /* LAYOUT */
 /* ***** */
+.superior{
+    height: 120px;
+}
+
+.inferior{
+    height: 480px;
+}

@@ -5,3 +5,30 @@
 :root{
 
 }
+
+header{
+    background-color: deepskyblue;
+}
+
+.superior{
+    background-color: red;
+}
+
+.inferior{
+    display: flex;
+
+}
+
+.content{
+    background-color: rgb(6, 172, 6);
+    flex-grow: 1;
+}
+
+.sidebar{
+    background-color: rgb(130, 33, 199);
+    flex-grow: 0.4;
+}
+
+footer{
+    background-color: grey;
+}

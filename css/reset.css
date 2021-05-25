@@ -3,12 +3,12 @@
 
 *{
     box-sizing: border-box;
+    margin: 0;
 }
 
-a{
-    text-decoration: none;
+body{
+    margin: 10px
+    
 }
 
-ul{
-    list-style-type: none;
-}
+
